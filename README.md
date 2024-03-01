@@ -1,3 +1,4 @@
+Author: Prachi (Preferred Name: Eva)
 LinkedIn: [Prachi - Data Whisperer](https://www.linkedin.com/in/prachi-datawhisperer/)
 
 Education
