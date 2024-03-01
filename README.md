@@ -1,4 +1,5 @@
 LinkedIn: [Prachi - Data Whisperer](https://www.linkedin.com/in/prachi-datawhisperer/)
+
 Education
 BS, Computer Science, California State University, Sacramento
 GPA: 3.8
