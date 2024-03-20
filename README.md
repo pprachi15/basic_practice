@@ -5,25 +5,26 @@ LinkedIn: [Prachi - Data Whisperer](https://www.linkedin.com/in/prachi-datawhisp
 Education
 BS, Computer Science, California State University, Sacramento
 GPA: 3.8
-Expected Graduation: May 2024
+Expected Graduation: Summer 2024
 
 Skills
-- Big Data: Apache Spark, Hive, Hadoop
-- Languages: Python, R, SQL, SAS
+- Big Data: Apache Spark, Hadoop
+- Languages: Python, R, SQL
 - Cloud: Azure, AWS, Google Cloud Platform
-- Visualization: Tableau, Power BI, Excel
-- DBMS: MySQL, SQL, Oracle SQL Developer
+- Visualization: Tableau, Power BI, Excel, Alteryx
+- DBMS: MySQL, SQL, Oracle SQL Developer, MongoDB
 - Tools: VS Code, Jupyter Notebook, GitHub
 
 Experience
 - Data Analyst Intern, DMV, Sacramento
 - Student Data Analyst, CSU Sacramento
-- Engineering Tutor, CSU Sacramento
+- Computer Science Tutor, CSU Sacramento
 
 Projects
-- College Management System
-- Customer Profiling
-- Financial Forecasting
+- Content Recommendation System: **link coming soon**
+- Credit Risk modeling: **link coming soon**
+- Fraud Detection: **link coming soon**
+- Real-Time Chat: https://github.com/pprachi15/chatbot.git
 
 Certifications
 - Python Bootcamp (Udemy)
