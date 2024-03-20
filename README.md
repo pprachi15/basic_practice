@@ -21,7 +21,7 @@ Experience
 - Computer Science Tutor, CSU Sacramento
 
 Projects
-- Content Recommendation System: **link coming soon**
+- Content Recommendation System: https://github.com/pprachi15/recommendation-system.git
 - Credit Risk modeling: **link coming soon**
 - Fraud Detection: **link coming soon**
 - Real-Time Chat: https://github.com/pprachi15/chatbot.git
