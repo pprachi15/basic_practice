@@ -1,41 +1,36 @@
+# Java Basics Practice Repository
 
-Author: Prachi (Preferred Name: Eva)
-LinkedIn: [Prachi - Data Whisperer](https://www.linkedin.com/in/prachi-datawhisperer/)
+Welcome to the Java Basics Practice Repository! This repository is a collection of Java files where I've practiced and learned fundamental Java programming concepts.
 
-Education
-BS, Computer Science, California State University, Sacramento
-GPA: 3.8
-Expected Graduation: Summer 2024
+## About
 
-Skills
-- Big Data: Apache Spark, Hadoop
-- Languages: Python, R, SQL
-- Cloud: Azure, AWS, Google Cloud Platform
-- Visualization: Tableau, Power BI, Excel, Alteryx
-- DBMS: MySQL, SQL, Oracle SQL Developer, MongoDB
-- Tools: VS Code, Jupyter Notebook, GitHub
+This repository serves as a personal learning space where I've documented my journey of learning Java programming. Each Java file represents a different concept or exercise that I've worked on.
 
-Experience
-- Data Analyst Intern, DMV, Sacramento
-- Student Data Analyst, CSU Sacramento
-- Computer Science Tutor, CSU Sacramento
+## Contents
 
-Projects
-- Content Recommendation System: https://github.com/pprachi15/recommendation-system.git
-- Credit Risk modeling: **link coming soon**
-- Fraud Detection: **link coming soon**
-- Real-Time Chat: https://github.com/pprachi15/chatbot.git
+The repository contains Java files covering a variety of topics, including:
 
-Certifications
-- Python Bootcamp (Udemy)
-- Google Advanced Data Analytics
-- R Programming (JHU)
+- Variables and Data Types
+- Control Structures (if-else, loops)
+- Methods and Functions
+- Object-Oriented Programming (Classes, Objects, Inheritance)
+- Arrays and Collections
+- Exception Handling
+- File Handling
 
-Community
-- President, Society of Women Engineers
+Feel free to explore the files and learn along with me!
 
-Connect for collaborations or opportunities!
-<!---
-pprachi15/pprachi15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Usage
+
+You can use this repository to:
+
+- Learn Java basics by studying the code examples.
+- Practice Java programming by modifying the existing code or adding new examples.
+- Experiment with different concepts and test your understanding.
+
+## Contributers
+- Prachi
+- Preferred Name: Eva
+
+If you have any suggestions, improvements, or additional exercises to contribute, feel free to open a pull request or raise an issue. Your contributions are highly appreciated!
+Happy Coding!!
