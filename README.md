@@ -1,6 +1,5 @@
-# Java Basics Practice Repository
-
-Welcome to the Java Basics Practice Repository! This repository is a collection of Java files where I've practiced and learned fundamental Java programming concepts.
+# Java Basics Practice
+This repository is a collection of Java files where I've practiced and learned fundamental Java programming concepts.
 
 ## About
 
@@ -18,12 +17,13 @@ The repository contains Java files covering a variety of topics, including:
 - Exception Handling
 - File Handling
 
-Feel free to explore the files and learn along with me!
 
 ## Usage
+<img src="https://github.com/pprachi15/introduction/assets/116032314/07564aff-efc3-4769-b650-9bec3f1b6d7d" width="80" height="80" />      <!-- Java  -->
+<img src="https://github.com/pprachi15/introduction/assets/116032314/7b46ae33-acdf-4e06-8e26-e530da1f9133" width="70" height="70" />        <!-- VS Code -->
+<img src="https://github.com/pprachi15/introduction/assets/116032314/5884efd1-99a0-41e3-b4ac-f92bec7ad40f" width="70" height="70" />        <!-- Github -->
 
 You can use this repository to:
-
 - Learn Java basics by studying the code examples.
 - Practice Java programming by modifying the existing code or adding new examples.
 - Experiment with different concepts and test your understanding.
